@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-tidb-boot
+    profiles:
+        active: dev
+server:
+    port: 8080
